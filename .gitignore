@@ -1,0 +1,16 @@
+backbone/efficientnet_b7_model/*
+backbone/resnet101/*
+backbone/wide_resnet101_2/*
+
+dataset/ENNset/*
+dataset/ENNset_each/*
+dataset/imageset/annotations/*
+dataset/imageset/train/*
+dataset/imageset/val/*
+dataset/imageset/test/*
+
+result/backbone_eval/*
+
+EnsembleNN_output/*
+
+labels/total_labels.txt
